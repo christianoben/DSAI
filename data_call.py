@@ -1,4 +1,4 @@
-# Importing necessary libraries
+# Importing necessary libraries to use
 import os
 import pandas as pd
 import sqlalchemy
